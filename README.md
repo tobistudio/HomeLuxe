@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Create React App - HomeLuxe
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This site is for e-commerce site.
 
-## Available Scripts
+## Available Scripts - typescript + javascript
 
 In the project directory, you can run:
 
