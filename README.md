@@ -1,4 +1,4 @@
-# Getting Started with Create React App - HomeLuxe
+# Eye-catching React App - HomeLuxe
 
 This is e-commerce web site and eye-catching website, eye-designed website.
 
