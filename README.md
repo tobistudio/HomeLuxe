@@ -1,6 +1,6 @@
 # Eye-catching React App - HomeLuxe
 
-This site is for e-commerce site.
+This site is for e-commerce site using React + Typescript + tailwind css with good SEO.
 
 ## Available Scripts - typescript + javascript
 
